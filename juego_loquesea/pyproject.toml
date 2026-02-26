@@ -1,0 +1,18 @@
+[project]
+name = "juego_loquesea"
+version = "0.1.0"
+description = "Juego minimalista con pygame"
+authors = ["Tu Nombre <tu@email.com>"]
+
+[tool.pdm]
+# Si usas pdm para gestión de dependencias
+
+[tool.poetry]
+# Si usas poetry para gestión de dependencias
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[dependencies]
+pygame = ">=2.0.0"
