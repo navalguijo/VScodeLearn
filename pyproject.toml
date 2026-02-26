@@ -1,0 +1,11 @@
+[project]
+name = "VScodeLearn"
+version = "0.1.0"
+description = "Proyecto sencillo para aprender Python y UV"
+requires-python = ">=3.8"
+dependencies = [
+    "matplotlib>=3.7.5",
+]
+
+[tool.uv]
+# Configuración mínima para UV
