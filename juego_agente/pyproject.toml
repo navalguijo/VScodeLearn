@@ -1,0 +1,11 @@
+[project]
+name = "juego_agente"
+version = "0.1.0"
+description = "Juego básico con pygame"
+authors = ["Tu Nombre <tu.email@example.com>"]
+
+[tool.uv]
+# Configuración para uv
+
+[project.dependencies]
+pygame = "*"
